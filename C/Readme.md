@@ -1,4 +1,4 @@
-![xcom](https://raw.githubusercontent.com/narke/PixelArtCollection/master/C/Catman933/Skizzin Down The Street.png)
+![xcom](https://raw.githubusercontent.com/narke/PixelArtCollection/master/C/Catman933/Skizzin_Down_The_Street.png)
 
 https://www.reddit.com/user/Catman933/
 
@@ -6,7 +6,7 @@ https://www.reddit.com/user/Catman933/
 
 chair_lord
 
-![chairlord](https://raw.githubusercontent.com/narke/PixelArtCollection/master/C/Crytivo/Football Story | Around Town.png)
+![chairlord](https://raw.githubusercontent.com/narke/PixelArtCollection/master/C/Crytivo/Football_Story_Around Town.png)
 
 Football Story | Around Town
 https://twitter.com/playfstory
