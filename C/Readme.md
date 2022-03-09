@@ -6,7 +6,7 @@ https://www.reddit.com/user/Catman933/
 
 chair_lord
 
-![chairlord](https://raw.githubusercontent.com/narke/PixelArtCollection/master/C/Crytivo/Football_Story_Around Town.png)
+![chairlord](https://raw.githubusercontent.com/narke/PixelArtCollection/master/C/Crytivo/Football_Story_Around_Town.png)
 
 Football Story | Around Town
 https://twitter.com/playfstory
