@@ -1,4 +1,4 @@
-![chairlord](https://raw.githubusercontent.com/narke/PixelArtCollection/master/O/orange-magik/Imaginary_Akihabara.png)
+![Imaginary Akihabara](https://raw.githubusercontent.com/narke/PixelArtCollection/master/O/orange-magik/Imaginary_Akihabara.png)
 
 - Author: orange-magik
 - Name: Imaginary Akihabara
