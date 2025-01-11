@@ -4,4 +4,5 @@
 
 ![](https://github.com/narke/PixelArtCollection/blob/master/T/Pixelplanes_-_Bismarck_Torpedo_run.jpg)
 
-> ![Toblerone1982](https://www.reddit.com/user/Toblerone1982/)
+- Name: Pixelplanes - Bismarck Torpedo run
+- Author: Toblerone1982, https://www.reddit.com/user/Toblerone1982/
